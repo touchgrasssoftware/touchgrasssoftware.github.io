@@ -16,7 +16,7 @@
 </svelte:head>
 
 <div
-  class="flex min-h-screen flex-col bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100"
+  class="flex min-h-screen flex-col bg-white text-gray-900 dark:bg-[#0e131f] dark:text-gray-100"
 >
   <Nav />
   <main class="flex-1">

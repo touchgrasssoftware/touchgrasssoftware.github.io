@@ -24,7 +24,7 @@
           <span
             class={clsx(
               ni.icon,
-              'h-24px w-24px hover:bg-primary-600 dark:hover:bg-primary-700',
+              'h-24px w-24px hover:bg-primary-600 dark:hover:bg-primary-400',
             )}
             aria-hidden="true"
           ></span>
